@@ -1,0 +1,39 @@
+body {
+    font: 10pt Arial;
+}
+table {
+    border: 1px solid black;
+    border-spacing: 0px;
+}
+
+td {
+    padding: 5px;
+    border: 1px solid black;
+}
+
+th {
+    padding: 5px;
+    background: #F0F; /* red - green - blue */ 
+    border: 1px solid black;
+}
+
+ul.last {
+    padding-bottom:30px;
+}
+
+.red {
+    color:red;
+    float:right;
+}
+
+.blue {
+    color:#00F;
+}
+
+#green{
+    color:#0F0;
+}
+
+p.definition{
+    margin-left: 50px;
+}
